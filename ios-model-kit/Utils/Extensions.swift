@@ -2,7 +2,7 @@
 //  Extensions.swift
 //  ios-model-kit
 //
-//  Created by Oleh Kulakevych on 03.05.2023.
+//  Created by Karina Zubko on 03.05.2023.
 //
 
 import UIKit

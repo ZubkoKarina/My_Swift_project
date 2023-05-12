@@ -2,7 +2,7 @@
 //  ModelViewController.swift
 //  ios-model-kit
 //
-//  Created by Oleh Kulakevych on 02.05.2023.
+//  Created by Karina Zubko on 02.05.2023.
 //
 
 import UIKit
