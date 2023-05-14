@@ -128,7 +128,7 @@ extension ModelsViewController: UITableViewDelegate, UITableViewDataSource {
     }
 }
 
-// MARK: - Firebase Calls
+// MARK:- Firebase Calls
 
 extension ModelsViewController {
     
